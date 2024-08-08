@@ -1,0 +1,9 @@
+{
+	"name": "keyvalkanna",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1bf11165-e323-4649-b46d-f640c91eb46b",
+		"tenantId": "c64d2231-eeaa-4709-ab7c-3c340ff062c5"
+	}
+}
