@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "keyvalkanna"
+		},
+		"LS_BlobSA_connectionString": {
+			"value": ""
+		},
+		"LS_KeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://nynika95.vault.azure.net/"
+		},
+		"LS_keuval_properties_typeProperties_server": {
+			"value": "sqlserverazure001.database.windows.net"
+		},
+		"LS_keuval_properties_typeProperties_database": {
+			"value": "DBCloud"
+		},
+		"LS_keuval_properties_typeProperties_userName": {
+			"value": "Ramya"
+		}
+	}
+}
